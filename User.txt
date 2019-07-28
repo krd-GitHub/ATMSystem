@@ -1,0 +1,3 @@
+{"name": "111", "idcard": "111", "phonenum": "11", "card": {"cardNum": "926455", "_Card__Password": "111", "_Card__money": 100, "boolOne": false}}
+{"name": "111", "idcard": "111", "phonenum": "111", "card": {"cardNum": "691294", "_Card__Password": "111", "_Card__money": 100, "boolOne": false}}
+{"name": "111", "idcard": "111", "phonenum": "11", "card": {"cardNum": "916455", "_Card__Password": "111", "_Card__money": 400, "boolOne": false}}
